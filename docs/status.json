@@ -1,14 +1,14 @@
 {
-  "last_run": "2026-11-07T07:51:00+00:00",
+  "last_run": "2026-11-07T08:36:45+00:00",
   "active": true,
   "sources": {
     "linkedin": {
       "ok": true,
-      "count": 28
+      "count": 29
     },
     "kariera": {
-      "ok": true,
-      "count": 0
+      "ok": false,
+      "error": "HTTP Error 500: Internal Server Error"
     },
     "skywalker": {
       "ok": false,
