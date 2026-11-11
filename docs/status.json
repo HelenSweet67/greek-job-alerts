@@ -1,18 +1,18 @@
 {
-  "last_run": "2026-11-11T03:16:10+00:00",
+  "last_run": "2026-11-11T04:22:32+00:00",
   "active": true,
   "sources": {
     "linkedin": {
-      "ok": true,
-      "count": 19
+      "ok": false,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     "kariera": {
-      "ok": true,
-      "count": 0
+      "ok": false,
+      "error": "HTTP Error 403: Forbidden"
     },
     "skywalker": {
-      "ok": false,
-      "error": "HTTP 403 (probably blocked)"
+      "ok": true,
+      "count": 2
     },
     "indeed": {
       "ok": false,
