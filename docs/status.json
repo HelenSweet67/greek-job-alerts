@@ -1,10 +1,10 @@
 {
-  "last_run": "2026-11-18T11:45:29+00:00",
+  "last_run": "2026-11-18T12:48:18+00:00",
   "active": true,
   "sources": {
     "linkedin": {
-      "ok": true,
-      "count": 29
+      "ok": false,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     "kariera": {
       "ok": false,
@@ -19,5 +19,5 @@
       "error": "HTTP 403 (probably blocked)"
     }
   },
-  "new": 2
+  "new": 0
 }
