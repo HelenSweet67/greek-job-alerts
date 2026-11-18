@@ -1,10 +1,10 @@
 {
-  "last_run": "2026-11-18T07:45:07+00:00",
+  "last_run": "2026-11-18T08:47:12+00:00",
   "active": true,
   "sources": {
     "linkedin": {
       "ok": true,
-      "count": 20
+      "count": 18
     },
     "kariera": {
       "ok": false,
